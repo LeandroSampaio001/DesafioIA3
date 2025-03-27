@@ -1,16 +1,19 @@
-Imagem 1 Japão:
- A imagem mostra uma movimentada rua urbana no Japão, repleta de prédios
- comerciais e lojas. Há muitos pedestres atravessando em uma faixa de
- pedestres, enquanto vários veículos, incluindo caminhões, circulam
- pela via. Os edifícios ao longo da rua exibem numerosos letreiros e anúncios
- em japonês, promovendo diferentes estabelecimentos, como karaokês, salões de
- beleza e restaurantes. A cena é vibrante e animada, capturando a essência de
- uma típica área comercial japonesa.
+## Imagens Analisadas
 
-Imagem 2:
+### Imagem 1: Letreiro de Barbearia
+- **Descrição**: A imagem mostra um letreiro detalhando os serviços e preços de uma barbearia e salão de beleza. Os serviços incluem cortes de cabelo para homens e mulheres, além de estilos como "Wash, Cut & Blow Dry" e "Restyle". Os preços são apresentados em libras esterlinas.
+- **Detalhes Principais**:
+  - Nome do local: Penny Lane Barber Shop and Ladies Salon.
+  - Serviços: cortes, lavagem, penteados.
+  - Faixa de preços: de £2,50 a £18,00.
+- **Observação**: A imagem destaca a diversidade de serviços oferecidos em um ambiente de barbearia e salão de beleza.
 
-A imagem mostra um burro marrom em um terreno rochoso com vegetação esparsa.
- Ele está com a cabeça inclinada, como se estivesse comendo a grama ou plantas
- que crescem entre as pedras. O céu ao fundo é azul, e o cenário circundante
- apresenta mais rochas e algumas áreas com plantas verdes. A foto tem um toque
- natural, destacando o contraste entre o animal e a paisagem árida.
+### Imagem 2: Aviso na Ilha de Alcatraz
+- **Descrição**: A imagem mostra um aviso em Alcatraz destacando informações sobre restrições de acesso. O texto menciona a área de 12 acres da ilha e regras sobre transporte e entrada permitida.
+- **Detalhes Principais**:
+  - Mensagem: "Indians Welcome. United Indian Property."
+  - Local: Alcatraz Island.
+  - Restrições: somente barcos do governo permitidos; entrada limitada.
+- **Observação**: A imagem reflete aspectos históricos e informativos relacionados ao uso e controle da ilha.
+
+---
